@@ -1,14 +1,17 @@
 # movie-website
 This is a website that generates specific movie ids form imdb and displays them
 
+# Static Website
+Download this Project and open with Live Server
+
 ## Technologies used
- * HTML CSS
- * JavaScript
 
+* HTML
+* CSS
+* JavaScript
 
-all required files are available just clone or download zip
+# Enjoy !!
 
-Any issues with token key can be handled in the imdb documentation
 
 
 
