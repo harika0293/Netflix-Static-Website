@@ -1,4 +1,4 @@
-# movie-website
+# Movie-Website
 This is a website that generates specific movie ids form imdb and displays them
 
 # Static Website
